@@ -15,7 +15,11 @@ Two-player mode: The game allows two players to play alternately.
 **Game reset:** After a win or a draw, the game board is reset to allow for a new round.
 
 **How It Works**
+
 Player Turns: Players take turns clicking on an empty grid cell to place their mark (either 'X' or 'O'). The current player is shown in the button colors.
+
 Winning Condition: The game checks for a winner after every move. A player wins if they have three of their marks in a row, column, or diagonal.
+
 Draw Condition: If all grid cells are filled and no player has won, the game declares a draw.
+
 Reset Board: After a win or a draw, the game board resets automatically, and players can start a new game.
